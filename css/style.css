@@ -539,6 +539,7 @@ h1, h2, h3, h4, h5,
         margin-right: 15px;
         padding: 20px 0px;
         color: #fff !important;
+font-weight: 600;
         display: inline-block;
         text-decoration: none !important; }
         .site-navbar .site-navigation .site-menu > li > a:hover {
@@ -553,7 +554,7 @@ h1, h2, h3, h4, h5,
         .site-navbar .site-navigation .site-menu .has-children > a:before {
           position: absolute;
           content: "\e313";
-          font-size: 16px;
+          font-size: 15px;
           top: 50%;
           right: 0;
           -webkit-transform: translateY(-50%);
@@ -725,7 +726,7 @@ h1, h2, h3, h4, h5,
       .site-mobile-menu .site-nav-wrap .arrow-collapse:hover {
         background: #f8f9fa; }
       .site-mobile-menu .site-nav-wrap .arrow-collapse:before {
-        font-size: 12px;
+        font-size: 18px;
         z-index: 20;
         font-family: "icomoon";
         content: "\f078";
@@ -864,7 +865,7 @@ h1, h2, h3, h4, h5,
     color: #fff; }
 
 .site-section {
-  padding: 7rem 0; }
+  padding: 3rem 0; }
   @media (max-width: 991.98px) {
     .site-section {
       padding: 3rem 0; } }
