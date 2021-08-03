@@ -1316,7 +1316,7 @@ h1, h2, h3, h4, h5,
       color: #fff; }
       .ftco-cover-1.overlay p a, .ftco-cover-1.overlay-2 p a {
         color: #fff;
-        font-weight: 700; }
+        font-weight: 300; }
         .ftco-cover-1.overlay p a:hover, .ftco-cover-1.overlay-2 p a:hover {
           text-decoration: none; }
     .ftco-cover-1.overlay form .form-control,
@@ -1655,7 +1655,7 @@ h1, h2, h3, h4, h5,
 .box-29291 {
   background: #fff;
   position: relative;
-  z-index: 2;
+  z-index: 1;
   margin-right: -60px;
   margin-top: 20px;
   margin-bottom: 20px;
